@@ -1,0 +1,57 @@
+html{
+  font-size: 16px;
+}
+body{
+  background: #000;
+  color: white;
+}
+header{
+  padding: 10px;
+  background: #003333;
+}
+main{
+  padding: 10px;
+  background: #003366;
+}
+footer{
+  padding: 10px;
+  background: #003399;
+}
+article{
+  padding: 10px;
+  background: #0033cc;
+}
+address{
+  padding: 10px;
+  background: #0033ff;
+}
+aside{
+  padding: 10px;
+  background: #003300;
+}
+section{
+  padding: 10px;
+  background: #006633;
+}
+hgroup{
+  padding: 10px;
+  background: #336633;
+}
+h1{
+  font-size: 2rem;
+}
+h2{
+  font-size: 1.5rem
+}
+h3{
+  font-size: 1.17rem;
+}
+h4{
+  font-size: 1rem;
+}
+h5{
+  font-size: 0.87rem;
+}
+h6{
+  font-size: 0.67rem;
+}
