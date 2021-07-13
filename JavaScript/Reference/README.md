@@ -3,10 +3,10 @@
 ## 值属性
 > 这些全局属性返回一个简单值，这些值没有自己的属性和方法。
 
-- [ ] Infinity
-- [ ] NaN
-- [ ] undefined
-- [ ] globalThis
+- [x] Infinity
+- [x] NaN
+- [x] undefined
+- [x] globalThis
 
 
 ## 函数属性
@@ -22,11 +22,8 @@
 - [ ] decodeURIComponent()
 - [ ] encodeURI()
 - [ ] encodeURIComponent()
-  
-
-## 已废弃
-- [ ] escape()
-- [ ] unescape()
+- [ ] ~~escape()~~  
+- [ ] ~~unescape()~~
 
   
 ## 基本对象
