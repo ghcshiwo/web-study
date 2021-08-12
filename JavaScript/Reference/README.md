@@ -13,17 +13,17 @@
 > 全局函数可以直接调用，不需要在调用时指定所属对象，执行结束后会将结果直接返回给调用者。
 
 - [ ] eval()
-- [ ] uneval()
-- [ ] isFinite()
-- [ ] isNaN()
-- [ ] parseFloat()
-- [ ] parseInt()
-- [ ] decodeURI()
-- [ ] decodeURIComponent()
-- [ ] encodeURI()
-- [ ] encodeURIComponent()
-- [ ] ~~escape()~~  
-- [ ] ~~unescape()~~
+- [x] uneval()
+- [x] isFinite()
+- [x] isNaN()
+- [x] parseFloat()
+- [x] parseInt()
+- [x] decodeURI()
+- [x] decodeURIComponent()
+- [x] encodeURI()
+- [x] encodeURIComponent()
+- [x] ~~escape()~~  
+- [x] ~~unescape()~~
 
   
 ## 基本对象

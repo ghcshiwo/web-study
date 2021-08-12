@@ -22,7 +22,7 @@ console.log(100 / Infinity); /* 0 */
 console.log(100 / -Infinity); /* -0 */
 
 /**
- * Infinity NaN
+ *  NaN
  */
 
 console.log(NaN === NaN); /* false */
